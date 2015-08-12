@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+06254f89-9191-47b4-aa7a-2cdcadf14c5a,Active,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+4a24d1a3-7c03-439e-9841-6da07c00be80,Completed,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+71d9f5ef-39b2-40ba-a49c-eeda596606d9,Deleted,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+83bb9c80-7c29-4eb2-882f-fdde1b8969a7,Generated,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+5257618d-d7fc-4b64-a77a-f4ac3cfc0d50,On Hold,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

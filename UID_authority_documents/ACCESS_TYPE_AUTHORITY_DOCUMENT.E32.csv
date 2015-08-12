@@ -1,0 +1,10 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+f46ac08d-690d-4a49-9e8a-4574f8377d46,Foot,,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+943de701-a325-4a2e-83d5-284c343737f7,Car,,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+d928709b-5060-4ab7-a525-c4e2e6a04f1b,Pickup Truck,,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9a445762-2a24-4ced-a866-97050504108c,Truck ,,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+4b74cbdd-0d58-4b3f-b718-68da631bd2af,Heavy Equipment,,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9ee86de4-383c-466a-8079-1bfb46b84aca,Boat lauch ( < 15 ft),,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+906065eb-a701-4e3f-be96-966665aefc29,Boat lauch ( > 15 ft),,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+0855b9dd-3abe-41a3-8296-4babd1206d9b,Dock,,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+e5132f0d-2eb7-4480-bce4-18abc0554b22,Helicopter pad/landing,,ACCESS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

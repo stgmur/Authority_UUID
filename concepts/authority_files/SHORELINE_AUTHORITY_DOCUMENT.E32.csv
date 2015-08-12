@@ -1,0 +1,76 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+SHORELINE_1,Shoreline/Arctic/Lake,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+SHORELINE_2,Beach: Peat/Organics,,SHORELINE_1,Index,Polaris
+SHORELINE_3,Beach: Mud,,SHORELINE_1,Index,Polaris
+SHORELINE_4,Beach: Sand,,SHORELINE_1,Index,Polaris
+SHORELINE_5,Beach: Shell Hash,,SHORELINE_1,Index,Polaris
+SHORELINE_6,Beach: Granule,,SHORELINE_1,Index,Polaris
+SHORELINE_7,Beach: Pebble,,SHORELINE_1,Index,Polaris
+SHORELINE_8,Beach: Cobble,,SHORELINE_1,Index,Polaris
+SHORELINE_9,Beach: Boulder,,SHORELINE_1,Index,Polaris
+SHORELINE_10,Beach: Sand/Granule,,SHORELINE_1,Index,Polaris
+SHORELINE_11,Beach: Sand/Granule/Cobble,,SHORELINE_1,Index,Polaris
+SHORELINE_12,Beach: Pebble/Cobble,,SHORELINE_1,Index,Polaris
+SHORELINE_13,Beach: Cobble/Boulder,,SHORELINE_1,Index,Polaris
+SHORELINE_14,Manmade: Pilings,,SHORELINE_1,Index,Polaris
+SHORELINE_15,Manmade: Rubble (Riprap),,SHORELINE_1,Index,Polaris
+SHORELINE_16,Manmade: Seawall/Sheet,,SHORELINE_1,Index,Polaris
+SHORELINE_17,Manmade: Other Impermeable,,SHORELINE_1,Index,Polaris
+SHORELINE_18,Manmade: Other Permeable,,SHORELINE_1,Index,Polaris
+SHORELINE_19,Bedrock: Cliff,,SHORELINE_1,Index,Polaris
+SHORELINE_20,Bedrock: Ramp,,SHORELINE_1,Index,Polaris
+SHORELINE_21,Bedrock: Platform,,SHORELINE_1,Index,Polaris
+SHORELINE_22,Vegetation: Marsh/Wetland,,SHORELINE_1,Index,Polaris
+SHORELINE_23,Flat: Mud,,SHORELINE_1,Index,Polaris
+SHORELINE_24,Flat: Sand,,SHORELINE_1,Index,Polaris
+SHORELINE_25,Flat: Granule,,SHORELINE_1,Index,Polaris
+SHORELINE_26,Flat: Pebble,,SHORELINE_1,Index,Polaris
+SHORELINE_27,Flat: Cobble,,SHORELINE_1,Index,Polaris
+SHORELINE_28,Flat: Boulder,,SHORELINE_1,Index,Polaris
+SHORELINE_29,Flat: Mud/Sand/Granule,,SHORELINE_1,Index,Polaris
+SHORELINE_30,Flat: Pebble/Cobble/Boulder,,SHORELINE_1,Index,Polaris
+SHORELINE_31,River/Inlet/Channel,,SHORELINE_1,Index,Polaris
+SHORELINE_32,Other,,SHORELINE_1,Index,Polaris
+SHORELINE_33,Additional Arctic Shorelines,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+SHORELINE_34,Tundra Cliff: Ice Rich,,SHORELINE_33,Index,Polaris
+SHORELINE_35,Tundra Cliff: Ice Poor,,SHORELINE_33,Index,Polaris
+SHORELINE_36,Inundated Low Lying Tundra,,SHORELINE_33,Index,Polaris
+SHORELINE_37,Additional Lake Shorelines,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+SHORELINE_38,Vegetation: Fringe Marsh,,SHORELINE_37,Index,Polaris
+SHORELINE_39,Vegetation: Broad Marsh,,SHORELINE_37,Index,Polaris
+SHORELINE_40,Vegetation: Reed Beds,,SHORELINE_37,Index,Polaris
+SHORELINE_41,Vegetation: Vegetated Bank,,SHORELINE_37,Index,Polaris
+SHORELINE_42,River/Stream,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+SHORELINE_43,Sed. Bank: Peat/Organics,,SHORELINE_42,Index,Polaris
+SHORELINE_44,Sed. Bank: Mud,,SHORELINE_42,Index,Polaris
+SHORELINE_45,Sed. Bank: Sand,,SHORELINE_42,Index,Polaris
+SHORELINE_46,Sed. Bank: Granule,,SHORELINE_42,Index,Polaris
+SHORELINE_47,Sed. Bank: Shell Hash,,SHORELINE_42,Index,Polaris
+SHORELINE_48,Sed. Bank: Pebble,,SHORELINE_42,Index,Polaris
+SHORELINE_49,Sed. Bank: Cobble,,SHORELINE_42,Index,Polaris
+SHORELINE_50,Sed. Bank: Boulder,,SHORELINE_42,Index,Polaris
+SHORELINE_51,Sed. Bank: Sand/Pebble,,SHORELINE_42,Index,Polaris
+SHORELINE_52,Sed. Bank: Sand/Granule/Pebble,,SHORELINE_42,Index,Polaris
+SHORELINE_53,Sed. Bank: Pebble/Cobble,,SHORELINE_42,Index,Polaris
+SHORELINE_54,Sed. Bank: Cobble/Boulder,,SHORELINE_42,Index,Polaris
+SHORELINE_55,Manmade: Pilings,,SHORELINE_42,Index,Polaris
+SHORELINE_56,Manmade: Rubble (Riprap),,SHORELINE_42,Index,Polaris
+SHORELINE_57,Manmade: Seawall/Sheet,,SHORELINE_42,Index,Polaris
+SHORELINE_58,Manmade: Other Impermeable,,SHORELINE_42,Index,Polaris
+SHORELINE_59,Manmade: Other Permeable,,SHORELINE_42,Index,Polaris
+SHORELINE_60,Bedrock: Cliff,,SHORELINE_42,Index,Polaris
+SHORELINE_61,Bedrock: Ramp,,SHORELINE_42,Index,Polaris
+SHORELINE_62,Bedrock: Platform,,SHORELINE_42,Index,Polaris
+SHORELINE_63,Vegetation: Marsh/Wetland,,SHORELINE_42,Index,Polaris
+SHORELINE_64,Vegetation: Reed Beds,,SHORELINE_42,Index,Polaris
+SHORELINE_65,Vegetation: Vegetated Bank,,SHORELINE_42,Index,Polaris
+SHORELINE_66,Flat: Mud,,SHORELINE_42,Index,Polaris
+SHORELINE_67,Flat: Sand,,SHORELINE_42,Index,Polaris
+SHORELINE_68,Flat: Granule,,SHORELINE_42,Index,Polaris
+SHORELINE_69,Flat: Pebble,,SHORELINE_42,Index,Polaris
+SHORELINE_70,Flat: Cobble,,SHORELINE_42,Index,Polaris
+SHORELINE_71,Flat: Boulder,,SHORELINE_42,Index,Polaris
+SHORELINE_72,Flat: Mud/Sand/Granule,,SHORELINE_42,Index,Polaris
+SHORELINE_73,Flat: Pebble/Cobble/Boulder,,SHORELINE_42,Index,Polaris
+SHORELINE_74,River/Inlet/Channel,,SHORELINE_42,Index,Polaris
+SHORELINE_75,Other,,SHORELINE_42,Index,Polaris

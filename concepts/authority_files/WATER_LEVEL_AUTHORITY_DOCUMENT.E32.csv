@@ -1,0 +1,15 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+WATER_LEVEL_1,Unknown,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+WATER_LEVEL_2,Shoreline,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+WATER_LEVEL_3,Predicted Tide Level,,WATER_LEVEL_2,Index,Polaris
+WATER_LEVEL_4,Above Predicted Tide Level,,WATER_LEVEL_2,Index,Polaris
+WATER_LEVEL_5,Below Predicted Tide Level,,WATER_LEVEL_2,Index,Polaris
+WATER_LEVEL_6,Lake,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+WATER_LEVEL_7,Monthly Mean,,WATER_LEVEL_6,Index,Polaris
+WATER_LEVEL_8,Above Monthly Mean,,WATER_LEVEL_6,Index,Polaris
+WATER_LEVEL_9,Below Monthly Mean,,WATER_LEVEL_6,Index,Polaris
+WATER_LEVEL_10,River/Stream,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+WATER_LEVEL_11,Low,,WATER_LEVEL_10,Index,Polaris
+WATER_LEVEL_12,Mean,,WATER_LEVEL_10,Index,Polaris
+WATER_LEVEL_13,Bankfull,,WATER_LEVEL_10,Index,Polaris
+WATER_LEVEL_14,Overbank,,WATER_LEVEL_10,Index,Polaris

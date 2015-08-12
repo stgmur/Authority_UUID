@@ -1,0 +1,22 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+30f6883d-10ba-4802-b0e7-7cb7f12b2da3,1. Natural alongshore movement barrier?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+31e31dfc-e80e-4393-a7a9-340cf862337e,2. Manmade alongshore movement barrier?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+67b798df-a7c1-4665-8bd8-ecc09d4ffd21,3. Natural bay/embayment or slough?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+d6cca22f-ccee-4ef9-82de-edd7ce807411,4. Marsh/Wetland potential oiling?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+2450909e-ed08-48fd-abbc-ffb542a74c95,5. Overwash into lagoon or marsh?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+2b43308c-0980-4e33-9cba-0d6c853ce44d,6. Pebble/Cobble potential penetration?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+e5a8db89-4a61-4f07-a891-d8faf9a91d8e,7. Riprap/Boulder potential penetration/remobilization?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+41adfc81-eda3-46ac-ad0e-3a539a2a39e7,8. Remote?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+26e4b169-c98d-4371-aef0-9d646b657ee2,9. Strong currents?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+aadb3537-4447-4a52-b87a-9f7db2ba0198,Shoreline Only Features,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+676b0d4d-307b-4db1-962d-df910f6757bd,10. Inlet or channel?,,FEATURE_10,Index,Polaris
+20c3a413-d774-46fc-ad6b-c50464deb17b,11. Lagoon or estuary?,,FEATURE_10,Index,Polaris
+eb52c5f7-f02e-4593-829c-1f9ca2339b37,12. Nearshore shoals/reef?,,FEATURE_10,Index,Polaris
+5d3a52ad-ff47-46b4-82a7-2b55d975ec32,13. Sand shoreline potential burial?,,FEATURE_10,Index,Polaris
+0a52c521-f65a-4736-aa51-30c65c80569b,14. Exposed coast?,,FEATURE_10,Index,Polaris
+62f78e47-b9df-4c36-95ea-64e36263a351,15. High tidal range?,,FEATURE_10,Index,Polaris
+3b249e20-bf85-42fe-b3aa-e70041ddfb1b,16. Winter shore ice?,,FEATURE_10,Index,Polaris
+db4c7b03-d352-43b4-a899-e4c73299f02b,River/Stream Only Features,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+074808b6-13ba-4282-8c23-7796cb8879a9,10. Meander with cut banks?,,FEATURE_18,Index,Polaris
+90d7cebd-4c2f-4e93-b42a-58ea6a1c3d33,11. Flood plain valley?,,FEATURE_18,Index,Polaris
+1482381f-5a51-46e3-8bb7-32158ee2e999,12. Scrub or wooded banks?,,FEATURE_18,Index,Polaris

@@ -1,0 +1,5 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+SHEEN_COLOR_1,B,Brown,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SHEEN_COLOR_2,R,Rainbow,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SHEEN_COLOR_3,M,Metallic,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SHEEN_COLOR_4,S,Silver,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

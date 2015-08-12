@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+0b00746c-f089-4d8b-894b-6080a65ee28f,No Oil Observed.,,RESULTS_AND_RECOMMENDATIONS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+0d14b2d9-7bdb-4963-ac77-a5324bd9758a,Meets cleanup endpoint.,,RESULTS_AND_RECOMMENDATIONS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+54844638-20bc-4738-949c-6a3c698825bb,No further treatment recommended.,,RESULTS_AND_RECOMMENDATIONS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+e57f94c4-04ee-4e03-961f-24a44de8eb15,Further treatment required.,,RESULTS_AND_RECOMMENDATIONS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+d7b3c4ee-cc2c-4652-a4d1-924c10d94110,Other,,RESULTS_AND_RECOMMENDATIONS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

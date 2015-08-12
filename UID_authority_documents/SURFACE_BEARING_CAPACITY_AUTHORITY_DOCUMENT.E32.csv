@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+b233750f-6a5b-47ac-b3e6-981b75847b05,Personnel,,SURFACE_BEARING_CAPACITY_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+41bca15f-92cb-4a15-b4de-c897dda6dc54,Vehicles,,SURFACE_BEARING_CAPACITY_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+a9ec4813-85f7-4af0-84a2-72dc3d0318a1,Other,,SURFACE_BEARING_CAPACITY_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

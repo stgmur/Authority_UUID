@@ -1,0 +1,8 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+OTHER_TYPE_1,Wildlife,,OTHER_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OTHER_TYPE_2,Non-incident oiling,,OTHER_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OTHER_TYPE_3,Hazard,,OTHER_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OTHER_TYPE_4,Debris,,OTHER_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OTHER_TYPE_5,Boom,,OTHER_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OTHER_TYPE_6,Response equipment,,OTHER_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OTHER_TYPE_7,Other,,OTHER_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

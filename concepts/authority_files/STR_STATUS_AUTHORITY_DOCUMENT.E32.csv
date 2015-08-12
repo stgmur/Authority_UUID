@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+STR_STATUS_1,Active,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+STR_STATUS_2,Completed,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+STR_STATUS_3,Deleted,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+STR_STATUS_4,Generated,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+STR_STATUS_5,On Hold,,STR_STATUS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

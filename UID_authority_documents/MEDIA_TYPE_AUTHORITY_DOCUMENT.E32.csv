@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+7ba92929-097f-4b80-b9f0-b13049fe4425,Photo,jpeg,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+12ecb642-8182-4b1f-8144-350fdcd3ab28,Scanned document,pdf,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+c40f4b87-3ea2-4ef1-b8f9-fe9c58e16c55,STR,pdf,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+042f0bcc-f3d3-4a45-bce1-167cfe9548ed,SIR,pdf,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+f46eb89b-ac1f-479c-a0dd-fc6ae0c2268f,GPS trackline,gpx,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

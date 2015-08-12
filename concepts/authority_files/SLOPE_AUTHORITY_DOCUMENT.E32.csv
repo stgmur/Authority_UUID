@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+SLOPE_1,< 5 degrees,,SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SLOPE_2,15 degrees,,SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SLOPE_3,30 degrees,,SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SLOPE_4,60 degrees,,SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SLOPE_5,90 degrees,,SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

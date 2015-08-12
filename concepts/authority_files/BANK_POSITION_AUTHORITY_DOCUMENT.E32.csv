@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+BANK_POSITION_1,Left,,BANK_POSITION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+BANK_POSITION_2,Right,,BANK_POSITION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+BANK_POSITION_3,Middle,,BANK_POSITION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

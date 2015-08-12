@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+a791edb2-efd2-4cbe-b597-795393d80d04,Rising,,TIDE_OR_WATER_DIRECTION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+7d19e95e-e122-4606-9fc8-3ec1d647b3a9,Falling,,TIDE_OR_WATER_DIRECTION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+3821d19c-0a99-494c-b140-f18389c6e7db,Slack,,TIDE_OR_WATER_DIRECTION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

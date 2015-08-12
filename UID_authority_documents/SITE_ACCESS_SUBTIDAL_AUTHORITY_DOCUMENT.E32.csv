@@ -1,0 +1,5 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+702cd8dd-ddbc-4b76-a4dd-e5c23dc16a23,1. Non-motorized,,SITE_ACCESS_SUBTIDAL_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+e93d5ca1-b1b2-4327-92d1-de9661bc9131,2. < 15 ft. jon boats,,SITE_ACCESS_SUBTIDAL_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+207d691d-ac57-44cc-92f8-0e34789f77a5,3. 15 - 50 ft. vessels,,SITE_ACCESS_SUBTIDAL_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+43fc19ea-fa05-4e0c-a218-abf70fdcb31c,4. > 50 ft. vessels,,SITE_ACCESS_SUBTIDAL_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

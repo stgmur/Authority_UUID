@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+7c410d04-2830-4a91-8df9-291d706d9e70,Agricultural,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+1685cc13-60c3-4d5d-88e1-4ef987dd5186,Commercial,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+d0916c47-e6dd-45c3-88be-5029b01ff587,Residential,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9b0ad84c-1452-46d7-abd4-0e7229a73eef,Recreational,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+06ab4d35-dd36-4b6e-b1ef-b5c5e8197c8e,None,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

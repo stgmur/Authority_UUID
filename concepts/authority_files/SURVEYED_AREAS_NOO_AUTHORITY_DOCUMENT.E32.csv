@@ -1,0 +1,3 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+SURVEYED_AREAS_NOO_1,YES,Primary,SURVEYED_AREAS_NOO_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+SURVEYED_AREAS_NOO_2,NO,Primary,SURVEYED_AREAS_NOO_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

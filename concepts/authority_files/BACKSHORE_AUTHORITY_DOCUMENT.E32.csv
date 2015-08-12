@@ -1,0 +1,31 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+BACKSHORE_1,Shoreline/Arctic/Pre-Spill,,BACKSHORE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+BACKSHORE_3,Beach,,BACKSHORE_1,Index,Polaris
+BACKSHORE_4,Lagoon,,BACKSHORE_1,Index,Polaris
+BACKSHORE_5,Manmade: Impermeable,,BACKSHORE_1,Index,Polaris
+BACKSHORE_6,Manmade: Permeable,,BACKSHORE_1,Index,Polaris
+BACKSHORE_7,Flat,,BACKSHORE_1,Index,Polaris
+BACKSHORE_8,Lowland,,BACKSHORE_1,Index,Polaris
+BACKSHORE_9,Barrier Beach,,BACKSHORE_1,Index,Polaris
+BACKSHORE_10,Dune,,BACKSHORE_1,Index,Polaris
+BACKSHORE_11,River/Channel,,BACKSHORE_1,Index,Polaris
+BACKSHORE_12,Tidal Inlet,,BACKSHORE_1,Index,Polaris
+BACKSHORE_13,Marsh/Wetland,,BACKSHORE_1,Index,Polaris
+BACKSHORE_14,Cliff/Hill,,BACKSHORE_1,Index,Polaris
+BACKSHORE_15,River/Stream,,BACKSHORE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+BACKSHORE_16,Canyon,,BACKSHORE_15,Index,Polaris
+BACKSHORE_17,Straight,,BACKSHORE_15,Index,Polaris
+BACKSHORE_18,Manmade,,BACKSHORE_15,Index,Polaris
+BACKSHORE_19,Braided,,BACKSHORE_15,Index,Polaris
+BACKSHORE_20,Anastamosed,,BACKSHORE_15,Index,Polaris
+BACKSHORE_21,Meander,,BACKSHORE_15,Index,Polaris
+BACKSHORE_22,Oxbow,,BACKSHORE_15,Index,Polaris
+BACKSHORE_23,Confined/Leveed,,BACKSHORE_15,Index,Polaris
+BACKSHORE_24,Flood Plain,,BACKSHORE_15,Index,Polaris
+BACKSHORE_25,Coral,,BACKSHORE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+BACKSHORE_26,Seagrass Beds,,BACKSHORE_25,Index,Polaris
+BACKSHORE_27,Mangrove Forests,,BACKSHORE_25,Index,Polaris
+BACKSHORE_28,Beach,,BACKSHORE_25,Index,Polaris
+BACKSHORE_29,Lagoon,,BACKSHORE_25,Index,Polaris
+BACKSHORE_30,Manmade: Impermeable,,BACKSHORE_25,Index,Polaris
+BACKSHORE_31,Manmade: Permeable,,BACKSHORE_25,Index,Polaris

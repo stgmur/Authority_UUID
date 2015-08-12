@@ -1,0 +1,3 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+BACKSHORE_TYPE_1,PRIMARY,Primary,BACKSHORE_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+BACKSHORE_TYPE_2,SECONDARY,Secondary,BACKSHORE_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

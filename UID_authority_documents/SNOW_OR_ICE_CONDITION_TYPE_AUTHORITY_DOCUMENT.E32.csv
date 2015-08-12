@@ -1,0 +1,16 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+37869398-6467-43eb-91b7-62d1a81ca39d,1. Across Shore Location (L/M/U/S),,SNOW_OR_ICE_CONDITION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+7346dd47-bb14-49b3-9918-535e21fbd92d,Snow,,SNOW_OR_ICE_CONDITION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+8a79032c-7e5d-4c74-949c-5187a48e2747,2. Cover (%),,SNOW_OR_ICE_CONDITION_TYPE_2,Index,Polaris
+a39bd98a-4a25-4985-9fef-2be3e9bcbc59,3. Thickness (cm),,SNOW_OR_ICE_CONDITION_TYPE_2,Index,Polaris
+fcfe2cb0-15aa-4e6b-b7b5-9cd5948035e0,4. Fresh? (YES/NO),,SNOW_OR_ICE_CONDITION_TYPE_2,Index,Polaris
+d05f7834-2a39-4032-b7c2-113de5000bab,5. Compacted? (YES/NO),,SNOW_OR_ICE_CONDITION_TYPE_2,Index,Polaris
+8685a0e7-649d-44c4-ae82-ee1dca60eed5,Frozen Spray/Frozen Swash/Ice Foot/Ice Push Ridge,,SNOW_OR_ICE_CONDITION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+e9111206-7f25-409c-b302-e1d4633f8b71,2. Width (m),,SNOW_OR_ICE_CONDITION_TYPE_7,Index,Polaris
+0577f081-55cd-4b95-a3bb-0df7ccd8e746,3. Thickness (cm),,SNOW_OR_ICE_CONDITION_TYPE_7,Index,Polaris
+fe8e2052-e4c6-42cc-b20a-b5cc8e1dc67f,Grounded Floes,,SNOW_OR_ICE_CONDITION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+a58b6811-5a8e-4a51-89bc-c1364bcb550f,2. Avg. Length (m),,SNOW_OR_ICE_CONDITION_TYPE_10,Index,Polaris
+8df44970-40af-405f-8243-203728e63339,3. Avg. Thickness (cm),,SNOW_OR_ICE_CONDITION_TYPE_10,Index,Polaris
+cebfa483-86b1-475f-a449-3d93ad07bb83,Glacier Ice,,SNOW_OR_ICE_CONDITION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+95e4e086-faaf-4f60-895f-58999e320f62,2. Height of ice front (m),,SNOW_OR_ICE_CONDITION_TYPE_13,Index,Polaris
+25c8991c-160b-4923-b301-12ad4d8b7f3b,3. Floating front (YES/NO),,SNOW_OR_ICE_CONDITION_TYPE_13,Index,Polaris

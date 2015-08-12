@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+19a94d2c-de7c-4025-ad1e-b5cbf2b46a70,TO,Thick Oil,THICKNESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+552348dc-bb44-40f1-a3cb-3f2037c4cedc,CV,Cover,THICKNESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+22f50c45-0604-430e-8378-ae6c0cfa49a9,CT,Coat,THICKNESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ad0533df-6475-433e-9b7f-53b3c7cf7b7d,ST,Stain,THICKNESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+520d8d22-e776-4f05-92fd-d8c0d64f6892,FL,Film,THICKNESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

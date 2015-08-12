@@ -1,0 +1,3 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+7b4c7a48-ad73-494f-97f5-9a6555cd5f66,Segment Comments,,SURVEY_COMMENTS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+196bf030-e2ae-4256-a59f-d52a2f217fcb,Operational/Access Comments,,SURVEY_COMMENTS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

@@ -1,0 +1,13 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+SEASON_1,Shoreline/Lake/River/Stream,,SEASON_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+SEASON_2,Wet,,SEASON_1,Index,Polaris
+SEASON_3,Dry,,SEASON_1,Index,Polaris
+SEASON_4,Winter/Ice,,SEASON_1,Index,Polaris
+SEASON_5,Coral/Mangrove,,SEASON_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+SEASON_6,Wet,,SEASON_5,Index,Polaris
+SEASON_7,Dry,,SEASON_5,Index,Polaris
+SEASON_8,Arctic,,SEASON_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+SEASON_9,Open water,,SEASON_8,Index,Polaris
+SEASON_10,Freeze Up Transistion,,SEASON_8,Index,Polaris
+SEASON_11,Frozen Period,,SEASON_8,Index,Polaris
+SEASON_12,Breakup - Thaw,,SEASON_8,Index,Polaris

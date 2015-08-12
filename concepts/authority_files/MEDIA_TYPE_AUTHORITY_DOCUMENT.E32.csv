@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+MEDIA_TYPE_1,Photo,jpeg,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+MEDIA_TYPE_2,Scanned document,pdf,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+MEDIA_TYPE_3,STR,pdf,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+MEDIA_TYPE_4,SIR,pdf,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+MEDIA_TYPE_5,GPS trackline,gpx,MEDIA_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

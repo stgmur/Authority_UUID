@@ -1,0 +1,21 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+c1d9b4c1-a282-44fb-af87-6e41b4acbead,CSOS,Combined Shoreline Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+f19accfe-7778-4627-93f6-07b885a74c60,Lake,Lake Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+77a6c658-a9ff-4920-95a3-b64b7888a089,River,River Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+b522daa1-041f-411e-ad8d-80c1dd7b297d,Stream,Stream Bank Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+3b8ac845-c69b-4c4e-ab04-596a2d2910d3,Tidal Flat,Tidal Flat Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+5ae8298d-232c-40f2-bba8-adce09c0af77,Mangrove,Mangrove Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+53513a15-e121-49ad-b148-56432adac039,Wetland,Wetland Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+485bd079-cbd5-4337-a561-3a213bb45923,Coral Reef,Coral Reef Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+5c9bf41f-e062-443e-9f28-988fc58defa2,Arctic,Arctic Shoreline Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+3a76277e-b287-4483-938b-68e3dce182cf,Winter - CSOS,Winter Combined Shoreline Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+632aa85e-389f-4715-afec-da13cd471f8d,Winter - Lake,Winter Lake Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+54a2bbd7-0105-4588-a75c-5887916cfc61,Winter - River,Winter River Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+79cc2c36-6e14-4cc9-94b1-7c913ab68aa6,Winter - Stream,Winter Stream Bank Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+30469a6e-28fc-4ace-9273-d27f768440e4,Winter - Tidal Flat,Winter Tidal Flat Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ba6885fa-42e9-4538-b306-5815a6d5eddd,Winter - Wetland,Winter Wetland Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ee978ced-4e1a-4fb6-8053-050558944afa,Pre-Spill Shoreline,Pre-Spill Shoreline Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+dcbcf5e8-0098-46ae-ad11-f0a1c3732dc8,Pre-Spill River/Stream,Pre-Spill River/Stream Bank Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+d9def184-c7b7-408a-aff0-c6b2bc6650de,Pre-Spill Arctic,Pre-Spill Arctic Shoreline Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+64921340-c69c-40ab-a73c-3bbc5fca32a7,Pre-Spill Lake,Pre-Spill Lake Shoreline Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+23abd9ae-81e2-4d05-864e-2a2d0fdac67c,Snorkel SCAT,Snorkel SCAT Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

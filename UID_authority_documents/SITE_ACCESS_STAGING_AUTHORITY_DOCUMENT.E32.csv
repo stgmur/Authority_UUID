@@ -1,0 +1,8 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+27067fa8-0655-49bb-8fe0-cba068b4ce8d,1. ATVs,,SITE_ACCESS_STAGING_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+f862bcad-c315-4915-83d6-2b736e45f93e,2. Pickup (4x4),,SITE_ACCESS_STAGING_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+8a20f5e5-0900-42ee-a688-e13fb6bfded9,3. Trucks,,SITE_ACCESS_STAGING_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+c93529ab-2dcc-4278-978e-a09c87865d54,4. Heavy Equipment,,SITE_ACCESS_STAGING_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+b8bdb53b-d814-4d1f-91c2-833257c370ac,5. < 15 ft. jon boats,,SITE_ACCESS_STAGING_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+c2d87179-1c3c-4c35-8b9f-54f30bbe4f55,6. 15 - 50 ft. vessels,,SITE_ACCESS_STAGING_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+85c39c4d-add9-414e-8361-1a99f83f2b19,7. > 50 ft. vessels,,SITE_ACCESS_STAGING_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

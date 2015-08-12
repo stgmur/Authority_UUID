@@ -1,0 +1,5 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+55001ea8-5816-432c-a8ca-8fc3f51446a5,SCAT,,SURVEY_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+bbfdd0b1-8f20-4822-9c40-925e28e5bcd6,PIST,,SURVEY_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+fb3bb715-6e24-42fd-8955-94bff5e787da,SIR,,SURVEY_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+4d75ee42-e821-42c0-80f5-046ee2ed6c65,Other,,SURVEY_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

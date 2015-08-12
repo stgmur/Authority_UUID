@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+a616db41-755e-4afe-b1fe-5b1a15f1a119,Bleaching,BL,CORAL_STRESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+5beeaeab-1326-48e1-ac60-26d3d39ce682,Mortality,MO,CORAL_STRESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+1ea3250b-e092-4e57-b05b-04850d2412a2,Mucosing,MU,CORAL_STRESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

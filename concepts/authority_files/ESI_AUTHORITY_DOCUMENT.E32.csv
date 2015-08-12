@@ -1,0 +1,65 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+ESI_1,Estuarine,,ESI_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+ESI_2,1A,Exposed rocky shores/banks,ESI_1,Index,Polaris
+ESI_3,1B,"Exposed, solid man-made structures",ESI_1,Index,Polaris
+ESI_4,1C,Exposed rocky cliffs with boulder talus base,ESI_1,Index,Polaris
+ESI_5,2A,"Exposed wave-cut platforms in bedrock, mud, or clay",ESI_1,Index,Polaris
+ESI_6,2B,Exposed scarps and steep slopes in clay,ESI_1,Index,Polaris
+ESI_7,3A,Fine to medium-grained sand beaches,ESI_1,Index,Polaris
+ESI_8,3B,Scarps and steep slopes in sand,ESI_1,Index,Polaris
+ESI_9,3C,Tundra cliffs,ESI_1,Index,Polaris
+ESI_10,4,Coarse-grained sand beaches,ESI_1,Index,Polaris
+ESI_11,5,Mixed sand and gravel beaches/banks,ESI_1,Index,Polaris
+ESI_12,6A,Gravel beaches,ESI_1,Index,Polaris
+ESI_13,6B,Riprap,ESI_1,Index,Polaris
+ESI_14,6C,SE Alaska Riprap,ESI_1,Index,Polaris
+ESI_15,7,Exposed tidal flats,ESI_1,Index,Polaris
+ESI_16,8A,"Sheltered scarps in bedrock, mud, or clay",ESI_1,Index,Polaris
+ESI_17,8B,"Sheltered, solid man-made structures",ESI_1,Index,Polaris
+ESI_18,8C,Sheltered riprap,ESI_1,Index,Polaris
+ESI_19,8D,Sheltered rocky rubble shores,ESI_1,Index,Polaris
+ESI_20,8E,Peat shorelines,ESI_1,Index,Polaris
+ESI_21,9A,Sheltered tidal flats,ESI_1,Index,Polaris
+ESI_22,9B,Vegetated low banks,ESI_1,Index,Polaris
+ESI_23,9,Hypersaline tidal flats,ESI_1,Index,Polaris
+ESI_24,10A,Salt- and brackish-water marshes,ESI_1,Index,Polaris
+ESI_25,10B,Freshwater marshes,ESI_1,Index,Polaris
+ESI_26,10C,Swamps,ESI_1,Index,Polaris
+ESI_27,10D,Scrub-shrub wetlands; Mangroves,ESI_1,Index,Polaris
+ESI_28,10E,Inundated low-lying tundra,ESI_1,Index,Polaris
+ESI_29,Riverine,,ESI_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+ESI_30,1A,Exposed rocky shores/banks,ESI_29,Index,Polaris
+ESI_31,1B,"Exposed, solid man-made structures",ESI_29,Index,Polaris
+ESI_32,1C,Exposed rocky cliffs with boulder talus base,ESI_29,Index,Polaris
+ESI_33,2A,"Rocky shoals, bedrock ledges",ESI_29,Index,Polaris
+ESI_34,3B,"Exposed, eroding banks in unconsolidated sediments",ESI_29,Index,Polaris
+ESI_35,4,Sandy bars and gently sloping banks,ESI_29,Index,Polaris
+ESI_36,5,Mixed sand and gravel beaches/banks,ESI_29,Index,Polaris
+ESI_37,6A,Gravel beaches,ESI_29,Index,Polaris
+ESI_38,6B,Riprap,ESI_29,Index,Polaris
+ESI_39,8B,"Sheltered, solid man-made structures",ESI_29,Index,Polaris
+ESI_40,8C,Sheltered riprap,ESI_29,Index,Polaris
+ESI_41,8F,"Vegetated, steeply-sloping bluffs",ESI_29,Index,Polaris
+ESI_42,9B,Vegetated low banks,ESI_29,Index,Polaris
+ESI_43,10B,Freshwater marshes,ESI_29,Index,Polaris
+ESI_44,10C,Swamps,ESI_29,Index,Polaris
+ESI_45,10D,Scrub-shrub wetlands,ESI_29,Index,Polaris
+ESI_46,Lacustrine,,ESI_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+ESI_47,1A,Exposed rocky shores/banks,ESI_46,Index,Polaris
+ESI_48,1B,"Exposed, solid man-made structures",ESI_46,Index,Polaris
+ESI_49,1C,Exposed rocky cliffs with boulder talus base,ESI_46,Index,Polaris
+ESI_50,2A,Shelving bedrock shores,ESI_46,Index,Polaris
+ESI_51,3B,Eroding scarps in unconsolidated sediment,ESI_46,Index,Polaris
+ESI_52,4,Sand beaches,ESI_46,Index,Polaris
+ESI_53,5,Mixed sand and gravel beaches/banks,ESI_46,Index,Polaris
+ESI_54,6A,Gravel beaches,ESI_46,Index,Polaris
+ESI_55,6B,Riprap,ESI_46,Index,Polaris
+ESI_56,7,Exposed tidal flats,ESI_46,Index,Polaris
+ESI_57,8A,"Sheltered scarps in bedrock, mud, or clay",ESI_46,Index,Polaris
+ESI_58,8B,"Sheltered, solid man-made structures",ESI_46,Index,Polaris
+ESI_59,8C,Sheltered riprap,ESI_46,Index,Polaris
+ESI_60,9A,Sheltered sand/mud flats,ESI_46,Index,Polaris
+ESI_61,9B,Vegetated low banks,ESI_46,Index,Polaris
+ESI_62,10B,Freshwater marshes,ESI_46,Index,Polaris
+ESI_63,10C,Swamps,ESI_46,Index,Polaris
+ESI_64,10D,Scrub-shrub wetlands,ESI_46,Index,Polaris

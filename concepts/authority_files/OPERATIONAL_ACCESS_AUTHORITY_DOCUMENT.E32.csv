@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+OPERATIONAL_ACCESS_TYPE_1,Backshore Staging,,OPERATIONAL_ACCESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OPERATIONAL_ACCESS_TYPE_2,Alongshore Access,,OPERATIONAL_ACCESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+OPERATIONAL_ACCESS_TYPE_3,Direct Backshore Access,,OPERATIONAL_ACCESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

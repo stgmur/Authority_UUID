@@ -1,0 +1,76 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+1ef7edd1-4fc7-4099-9648-d51f0a8a0637,Shoreline/Arctic/Lake,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+5c795c48-18dd-4571-9d24-1ebbd12375d2,Beach: Peat/Organics,,SHORELINE_1,Index,Polaris
+bdbfc2fc-9b76-47af-b2c8-0a36f42cd026,Beach: Mud,,SHORELINE_1,Index,Polaris
+0ea5f030-60a1-40d2-b75e-17fc05061a39,Beach: Sand,,SHORELINE_1,Index,Polaris
+f6b7e063-ae4c-4ccf-a0cc-dd6116bc2280,Beach: Shell Hash,,SHORELINE_1,Index,Polaris
+8dbdc75b-e59f-472f-9472-5a18c393bb2a,Beach: Granule,,SHORELINE_1,Index,Polaris
+591a2cb8-daa4-4c0e-b1b1-305feed67259,Beach: Pebble,,SHORELINE_1,Index,Polaris
+dc1d0e46-82e3-44ad-b5bb-0e92f8cb1cd2,Beach: Cobble,,SHORELINE_1,Index,Polaris
+75c78792-ee4e-4600-b8b6-d0de68450bb9,Beach: Boulder,,SHORELINE_1,Index,Polaris
+9085f1ef-83b5-4337-a23a-a0ed363511cb,Beach: Sand/Granule,,SHORELINE_1,Index,Polaris
+f65d18a8-7b44-404f-93d2-2447659674d3,Beach: Sand/Granule/Cobble,,SHORELINE_1,Index,Polaris
+ba7dc363-308e-4c75-b437-3547cdde21ca,Beach: Pebble/Cobble,,SHORELINE_1,Index,Polaris
+2595dff1-51f2-4018-87bb-2dd95ab92fd7,Beach: Cobble/Boulder,,SHORELINE_1,Index,Polaris
+c9731c68-d777-42aa-947c-3b642ab271ac,Manmade: Pilings,,SHORELINE_1,Index,Polaris
+d79bc317-e34c-4cc5-824a-4dc78b565d13,Manmade: Rubble (Riprap),,SHORELINE_1,Index,Polaris
+346609bc-c5e1-4c87-845c-6d4f9cda3d63,Manmade: Seawall/Sheet,,SHORELINE_1,Index,Polaris
+bf219529-cd54-4d25-915b-ccc22f937964,Manmade: Other Impermeable,,SHORELINE_1,Index,Polaris
+f7c4664c-aaa3-4181-a788-70b2fc747d68,Manmade: Other Permeable,,SHORELINE_1,Index,Polaris
+1b41b39d-1dbf-49e7-8b06-401a49986ee0,Bedrock: Cliff,,SHORELINE_1,Index,Polaris
+2a3db51f-16ea-4271-9fb4-90671cb38252,Bedrock: Ramp,,SHORELINE_1,Index,Polaris
+e4af2e58-353e-4cad-98dd-e47198b33aaf,Bedrock: Platform,,SHORELINE_1,Index,Polaris
+c093f758-5be1-46e7-af5b-b37d17c275ce,Vegetation: Marsh/Wetland,,SHORELINE_1,Index,Polaris
+bf9a9fa4-feb2-4c23-ac83-040ffee358f5,Flat: Mud,,SHORELINE_1,Index,Polaris
+b8c4dc04-0769-41bb-9c75-db332547f4b1,Flat: Sand,,SHORELINE_1,Index,Polaris
+dcc5b2cf-7aed-49d1-8a62-d4eca9daa3ba,Flat: Granule,,SHORELINE_1,Index,Polaris
+9cca7779-aa5e-4c10-8614-2d8cbc961fb6,Flat: Pebble,,SHORELINE_1,Index,Polaris
+31f20ea2-5859-4e1a-ac92-f072ea19f2a0,Flat: Cobble,,SHORELINE_1,Index,Polaris
+f3627d71-b3fd-4de9-b1a6-a2cb398df917,Flat: Boulder,,SHORELINE_1,Index,Polaris
+65c48805-fc0a-4616-9891-411ad1b90eea,Flat: Mud/Sand/Granule,,SHORELINE_1,Index,Polaris
+78df059f-c57d-416e-a32e-ade659b9441d,Flat: Pebble/Cobble/Boulder,,SHORELINE_1,Index,Polaris
+a2408dc2-bf56-41fa-94ba-4712ad7a8ac1,River/Inlet/Channel,,SHORELINE_1,Index,Polaris
+3e670382-559e-449c-a0c5-a6c0c572e9f7,Other,,SHORELINE_1,Index,Polaris
+4ed2e435-7605-4148-9712-d2d8d094b954,Additional Arctic Shorelines,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+c84c7336-d738-4846-9843-0ce80a26fda8,Tundra Cliff: Ice Rich,,SHORELINE_33,Index,Polaris
+94525a6b-fd93-4e86-b232-644da01363b9,Tundra Cliff: Ice Poor,,SHORELINE_33,Index,Polaris
+16b614ac-a417-46e6-b648-976f9b16ab71,Inundated Low Lying Tundra,,SHORELINE_33,Index,Polaris
+fa32bd11-8d66-41de-91be-8095610a1716,Additional Lake Shorelines,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+88f7bb2f-8a41-4891-8520-edd16bca3d4d,Vegetation: Fringe Marsh,,SHORELINE_37,Index,Polaris
+cbcdc02e-9c25-4bc0-aa42-c6556dbf2d26,Vegetation: Broad Marsh,,SHORELINE_37,Index,Polaris
+7d5add4c-f829-43bb-b2f3-0537025eeccb,Vegetation: Reed Beds,,SHORELINE_37,Index,Polaris
+684611fd-f56e-4e7b-846f-33e1e972fd56,Vegetation: Vegetated Bank,,SHORELINE_37,Index,Polaris
+f4c95af6-0b4d-4d9e-989e-ca1dfa4a14a0,River/Stream,,SHORELINE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+9a5f2751-080a-4801-93ef-eb70221ea3ed,Sed. Bank: Peat/Organics,,SHORELINE_42,Index,Polaris
+12d9173d-273b-43d0-b9ab-292cb6fc4b69,Sed. Bank: Mud,,SHORELINE_42,Index,Polaris
+e5c66c5a-08b4-4ffb-b5c7-3f96cedf7368,Sed. Bank: Sand,,SHORELINE_42,Index,Polaris
+af4f4ad9-2a45-439e-a214-2c9ab0dd1c04,Sed. Bank: Granule,,SHORELINE_42,Index,Polaris
+b4832c98-02b3-4f33-826a-fcec7c899470,Sed. Bank: Shell Hash,,SHORELINE_42,Index,Polaris
+98a63ada-f3d9-4dac-bb06-9d11b7c6e807,Sed. Bank: Pebble,,SHORELINE_42,Index,Polaris
+103082c0-adb6-444b-b12a-e5a9cc25084f,Sed. Bank: Cobble,,SHORELINE_42,Index,Polaris
+ceda1001-c4e1-4b66-86fa-c1f79c867702,Sed. Bank: Boulder,,SHORELINE_42,Index,Polaris
+e3d9cd93-fe41-465d-a622-1370e3f6cd3d,Sed. Bank: Sand/Pebble,,SHORELINE_42,Index,Polaris
+ed941583-fd13-4841-8f48-43d097ea88aa,Sed. Bank: Sand/Granule/Pebble,,SHORELINE_42,Index,Polaris
+7674c692-4192-49cc-b871-09b7c7c4981a,Sed. Bank: Pebble/Cobble,,SHORELINE_42,Index,Polaris
+c35c800b-699b-4aa6-9760-ef79803d48e2,Sed. Bank: Cobble/Boulder,,SHORELINE_42,Index,Polaris
+18697ec6-6a4e-4cda-987c-bc648fc30333,Manmade: Pilings,,SHORELINE_42,Index,Polaris
+85632ed3-8d42-4b22-9ba0-03c4a5b1e6ca,Manmade: Rubble (Riprap),,SHORELINE_42,Index,Polaris
+4fe6ba28-e0fa-4ab1-b3d6-60955efbb3c1,Manmade: Seawall/Sheet,,SHORELINE_42,Index,Polaris
+4d12e57a-2c79-49e9-9ade-6b616dc4eaeb,Manmade: Other Impermeable,,SHORELINE_42,Index,Polaris
+8acae56b-d667-4c21-bbb6-939798c60ddc,Manmade: Other Permeable,,SHORELINE_42,Index,Polaris
+49a178c7-34fc-469d-9a9d-f38f1c8a74f8,Bedrock: Cliff,,SHORELINE_42,Index,Polaris
+af7b2120-4988-4d88-a56d-1196187c5ce5,Bedrock: Ramp,,SHORELINE_42,Index,Polaris
+176a29e7-8c51-4135-b411-b159547e3344,Bedrock: Platform,,SHORELINE_42,Index,Polaris
+1cd0b2f1-8271-4fa1-bb3f-9e88577552f8,Vegetation: Marsh/Wetland,,SHORELINE_42,Index,Polaris
+5f466ce6-1353-4e27-8f00-31e6b937c90c,Vegetation: Reed Beds,,SHORELINE_42,Index,Polaris
+4cd5a79f-e905-4282-8df0-fc4854d95898,Vegetation: Vegetated Bank,,SHORELINE_42,Index,Polaris
+f0cada1a-4b9a-4cd6-94b7-048290afd201,Flat: Mud,,SHORELINE_42,Index,Polaris
+6b2add86-a7ae-43a8-b8ec-06c5e1df0004,Flat: Sand,,SHORELINE_42,Index,Polaris
+89fef042-29a3-418f-ad2e-8f574cdc90c5,Flat: Granule,,SHORELINE_42,Index,Polaris
+5409a8cf-e1b2-4caf-ba44-aab6f9d48a72,Flat: Pebble,,SHORELINE_42,Index,Polaris
+775ef63b-fb1f-4d3a-a18c-7c3b77eeecdc,Flat: Cobble,,SHORELINE_42,Index,Polaris
+437b6840-4651-493b-adb6-8dd99aa97a2b,Flat: Boulder,,SHORELINE_42,Index,Polaris
+8055ffe6-93e9-4a29-a6be-3d2dffa34ce5,Flat: Mud/Sand/Granule,,SHORELINE_42,Index,Polaris
+b4ecf05d-cef1-46ea-9140-c1d1e8ef9382,Flat: Pebble/Cobble/Boulder,,SHORELINE_42,Index,Polaris
+f1305296-7843-4b99-8e89-08cc409ad0d4,River/Inlet/Channel,,SHORELINE_42,Index,Polaris
+b80d4160-ab13-45ca-90ef-3458b318339f,Other,,SHORELINE_42,Index,Polaris

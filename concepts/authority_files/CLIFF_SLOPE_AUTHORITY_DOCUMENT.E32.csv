@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+CLIFF_SLOPE_1,< 5 degrees,,CLIFF_SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+CLIFF_SLOPE_2,15 degrees,,CLIFF_SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+CLIFF_SLOPE_3,30 degrees,,CLIFF_SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+CLIFF_SLOPE_4,60 degrees,,CLIFF_SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+CLIFF_SLOPE_5,90 degrees,,CLIFF_SLOPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

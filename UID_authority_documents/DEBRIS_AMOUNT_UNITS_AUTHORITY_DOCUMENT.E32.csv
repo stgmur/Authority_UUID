@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+ee08fcfd-b296-4c92-a407-fcaf2a647bc0,Bags,,DEBRIS_AMOUNT_UNITS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+8a058af9-ece0-4a90-bdde-e9fb8fde4921,Super Sacks,,DEBRIS_AMOUNT_UNITS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+1dde7853-927d-498c-932c-8cc230edc4b4,Trucks,,DEBRIS_AMOUNT_UNITS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

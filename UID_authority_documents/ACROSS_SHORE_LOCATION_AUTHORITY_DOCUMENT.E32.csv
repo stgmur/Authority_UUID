@@ -1,0 +1,16 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+a008cd18-ff69-496a-83d0-afd01b6d9479,Shoreline Tidal Zone,,ACROSS_SHORE_LOCATION_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+e89021e0-5b8e-40aa-8906-110b940568a0,SUTZ,Supra tidal zone,ACROSS_SHORE_LOCATION_1,Index,Polaris
+477a1d7a-2170-4c34-890a-e89e8aa19cd2,UITZ,Upper tidal zone,ACROSS_SHORE_LOCATION_1,Index,Polaris
+8f6b2821-78db-4789-a286-a450ea8891bc,MITZ,Middle tidal zone,ACROSS_SHORE_LOCATION_1,Index,Polaris
+8e972ec7-ffb7-427f-b397-aa1dd9470d1a,LITZ,Lower tidal zone,ACROSS_SHORE_LOCATION_1,Index,Polaris
+6a6461c8-15c2-4e7b-949e-fc40b9db43d1,SubTZ,Sub tidal zone,ACROSS_SHORE_LOCATION_1,Index,Polaris
+a4701591-9e2e-4e8b-89d1-44fc9c7901d9,River/Stream Bank Zone,,ACROSS_SHORE_LOCATION_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+db3cf55f-b9b8-4163-974e-3e948f9f0f3b,OB,Over bank,ACROSS_SHORE_LOCATION_7,Index,Polaris
+72e40e56-e48d-4aa5-830c-7a1b5317e5c8,UB,Upper bank,ACROSS_SHORE_LOCATION_7,Index,Polaris
+c97ee846-433b-4d5c-b1cf-ae576e990014,LB,Lower bank,ACROSS_SHORE_LOCATION_7,Index,Polaris
+395d49e4-ec1e-4bc1-9232-fc815911d250,MS,Mid-stream,ACROSS_SHORE_LOCATION_7,Index,Polaris
+c3602a20-eef0-4aad-a43a-b11cbe785b56,Swash Zone (Lake),,ACROSS_SHORE_LOCATION_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+e20833cb-ef48-4865-bd33-38cd8f59b96b,SSZ,Supra swash zone,ACROSS_SHORE_LOCATION_12,Index,Polaris
+2f7a8a7c-91dc-4c73-a926-a2e55d32d2f2,USZ,Upper swash zone,ACROSS_SHORE_LOCATION_12,Index,Polaris
+29e48ce9-c565-499b-aff5-df62590e6f30,LSZ,Lower swash zone,ACROSS_SHORE_LOCATION_12,Index,Polaris

@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+CORAL_STRESS_1,Bleaching,BL,CORAL_STRESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+CORAL_STRESS_2,Mortality,MO,CORAL_STRESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+CORAL_STRESS_3,Mucosing,MU,CORAL_STRESS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

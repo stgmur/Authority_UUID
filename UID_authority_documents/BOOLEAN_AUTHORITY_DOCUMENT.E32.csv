@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+db51288c-f010-4d15-9914-51e113857eed,YES,,BOOLEAN_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+be58a7b0-0b21-40a2-983c-9fccdba54c69,NO,,BOOLEAN_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9cd85451-f77a-4b37-8fb6-2087adbf6eec,UNKNOWN,,BOOLEAN_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

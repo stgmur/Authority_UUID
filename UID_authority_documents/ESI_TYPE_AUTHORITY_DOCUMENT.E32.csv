@@ -1,0 +1,3 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+21a31cfd-b4ab-481c-a557-68d9624c6e18,PRIMARY,Primary,ESI_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,FGI
+953b62ef-c898-47a4-b2ad-9c0d5fbeaea5,SECONDARY,Secondary,ESI_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,FGI

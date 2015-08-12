@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+7f455e6b-9510-45ac-b5c0-c7f4309faee0,Base,,OILED_PLANT_PARTS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9cd5a0bf-ccad-4668-b162-ee84111df1aa,Trunk,,OILED_PLANT_PARTS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ae0e1c89-ec94-4b51-85e0-b9fba3f3b9ff,Stem,,OILED_PLANT_PARTS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+b50655b5-9030-4bc8-a0d2-1d4db5ae7d61,Leaf,,OILED_PLANT_PARTS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+e8539cec-bb76-4318-8373-845f2bec8e93,Flower,,OILED_PLANT_PARTS_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

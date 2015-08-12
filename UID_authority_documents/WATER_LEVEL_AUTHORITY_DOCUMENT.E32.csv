@@ -1,0 +1,15 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+737c295b-211f-40cb-8e4a-86e739821924,Unknown,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+26b64ac9-bbbc-4892-aec7-e20edca61aed,Shoreline,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+5dbc4e38-5897-4584-8c88-9ec92ac99ccc,Predicted Tide Level,,WATER_LEVEL_2,Index,Polaris
+af9303eb-c035-4386-8f62-f6eb67033bf6,Above Predicted Tide Level,,WATER_LEVEL_2,Index,Polaris
+049abbe9-28d8-4e1f-bddd-d78126dbd7b3,Below Predicted Tide Level,,WATER_LEVEL_2,Index,Polaris
+41d6f9f1-2106-4d66-ad06-b82b492353bc,Lake,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+acf5728a-a2ca-440b-a7a6-02529feb792b,Monthly Mean,,WATER_LEVEL_6,Index,Polaris
+569f670d-a400-4a82-80d6-71475227bf6e,Above Monthly Mean,,WATER_LEVEL_6,Index,Polaris
+bbaf24e5-1c6a-4103-860c-14eebea6a925,Below Monthly Mean,,WATER_LEVEL_6,Index,Polaris
+7e1e1279-afce-4347-82e0-1d4b7aed65dd,River/Stream,,WATER_LEVEL_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+c57c9ee3-be8b-4f0d-8995-f7e33c3580ce,Low,,WATER_LEVEL_10,Index,Polaris
+53b4b056-a981-45e4-93d6-54bd66e59e92,Mean,,WATER_LEVEL_10,Index,Polaris
+e987ed4c-585d-4838-9b07-ff9a146bf78f,Bankfull,,WATER_LEVEL_10,Index,Polaris
+8e90df72-883b-405a-b43f-2e14e9173815,Overbank,,WATER_LEVEL_10,Index,Polaris

@@ -1,0 +1,21 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+FORM_TYPE_1,CSOS,Combined Shoreline Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_2,Lake,Lake Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_3,River,River Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_4,Stream,Stream Bank Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_5,Tidal Flat,Tidal Flat Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_6,Mangrove,Mangrove Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_7,Wetland,Wetland Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_8,Coral Reef,Coral Reef Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_9,Arctic,Arctic Shoreline Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_10,Winter - CSOS,Winter Combined Shoreline Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_11,Winter - Lake,Winter Lake Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_12,Winter - River,Winter River Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_13,Winter - Stream,Winter Stream Bank Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_14,Winter - Tidal Flat,Winter Tidal Flat Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_15,Winter - Wetland,Winter Wetland Oiling Summary,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_16,Pre-Spill Shoreline,Pre-Spill Shoreline Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_17,Pre-Spill River/Stream,Pre-Spill River/Stream Bank Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_18,Pre-Spill Arctic,Pre-Spill Arctic Shoreline Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_19,Pre-Spill Lake,Pre-Spill Lake Shoreline Survey Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FORM_TYPE_20,Snorkel SCAT,Snorkel SCAT Form,FORM_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

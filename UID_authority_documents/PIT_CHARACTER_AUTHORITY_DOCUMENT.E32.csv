@@ -1,0 +1,8 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+fae8d537-8027-4ada-a24a-ad3f7d2dbeb9,NO,No oil ,PIT_CHARACTER_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+5048357a-70af-431e-8c57-c4e7247d84e1,AP,Asphalt Pavement,PIT_CHARACTER_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+d4825926-4f86-40a8-a383-4719529dfaa7,OP,Oil Filled Pores,PIT_CHARACTER_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+53ea651f-5f9c-42a0-a34f-0b7270200d6f,PP,Partially Filled Pores,PIT_CHARACTER_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+c6d7ff8a-2658-4727-adcb-26b791694a57,OR,Oil Residue (Cover/Coat),PIT_CHARACTER_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9f551963-a307-4e11-be10-7a5ce6dfc10a,OF,Oil Film (Stain),PIT_CHARACTER_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+3d655394-d1d6-4c8a-9d52-87dc6e4e47f1,TR,Trace,PIT_CHARACTER_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

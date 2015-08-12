@@ -1,0 +1,3 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+b5777efe-4dc8-4def-9236-21a89d887a73,PRIMARY,Primary,SHORELINE_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+1822ae9d-f255-4eb2-aca7-0fdb253a9af4,SECONDARY,Secondary,SHORELINE_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

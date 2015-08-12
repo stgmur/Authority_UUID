@@ -1,0 +1,9 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+e0169778-83e7-4850-bb61-6778812cc463,No Oil Observed,,DISTRIBUTION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ceb110dc-6788-4a71-87e2-a4fa6427e1ae,Percent Distribution,,DISTRIBUTION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+6811c631-a32e-45c7-8e74-6b25e5f266ac,Discreet Oiling,,DISTRIBUTION_TYPE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+86d3093c-5daf-4b76-9b45-c24d7090ad19,1 Sq. Meter,,DISTRIBUTION_TYPE_3,Index,Polaris
+62bcf175-3bd9-42ca-aeec-c58b6200f6cf,10 Sq. Meters,,DISTRIBUTION_TYPE_3,Index,Polaris
+f0316029-e830-49e6-bebd-d48826f75bad,100 Sq. Meters,,DISTRIBUTION_TYPE_3,Index,Polaris
+a96783cb-7cb2-4c6f-a73b-6347e98eb78b,1000 Sq. Meters,,DISTRIBUTION_TYPE_3,Index,Polaris
+c71f0615-15a7-48ae-affc-eb7cdcbe646e,Entire Zone,,DISTRIBUTION_TYPE_3,Index,Polaris

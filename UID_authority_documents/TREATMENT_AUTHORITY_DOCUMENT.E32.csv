@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+d0549fb0-4b1b-4cc4-bfc2-711934f9c87a,None,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+2bc2acaa-b3c1-4b8b-b7f9-81229b1560b9,Passive Collection,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+55787da7-f126-4aed-a382-2dcaec7a6038,Washing/Flushing,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+fff1375a-f629-4977-8173-d2a5fb841f8a,Manual Collection,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+5b760db0-c871-42cf-bca5-c06000b84bee,Mechanical Collection,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

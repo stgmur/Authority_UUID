@@ -1,0 +1,5 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+95511f70-b103-4269-bb91-23f72f0acd8f,B,Brown,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ba6c58a6-ab10-4109-bcea-299ead4b3a17,R,Rainbow,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+601743eb-fbd2-47f5-918c-922edcf83ba2,M,Metallic,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+7dd727a5-956c-404b-9f9f-c1b995d3cf48,S,Silver,SHEEN_COLOR_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

@@ -1,0 +1,16 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+b63fa292-c691-42be-95a5-f8775a95578c,SCAT Team Lead,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+05b6b6c1-cef7-4d17-bca5-e1103a92af64,SCAT Team Member,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+616915e0-558a-464d-90ed-82c9ff832a2b,SCAT Coordinator,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9cc767e5-3ce5-44e0-a7c4-bcda6fa56798,SCAT Data Manager,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+49fa21ce-9db9-4e87-87e8-1c83c4bd08d7,SCAT Data Team,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+349df550-1f29-47d6-bb1c-00296c207b40,SCAT Logistics,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+40e403f9-77f6-4725-a140-15f6dfa4e2d7,SCAT OPS Liaison,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+1a6b9adb-e9e8-4b8b-be6e-b17eca4209f3,SCAT Support,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+c8ff1504-4101-46c4-826f-1e9a5f09b4a6,Operations,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+a3e0e450-5b37-4b16-9c9d-747087b62272,Environmental Unit,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+a366cfc9-072f-4085-b5a8-620bc02772f3,Planning,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+97eea8b3-30ff-42dd-9c79-675b9a6c774e,Safety,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+bd8ba4a4-abd2-402a-9d5c-c73fd7a1ddd3,NRA,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+c25febba-b809-4d43-8331-229a7507a6c1,Wildlife,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+f881c97c-2c77-408b-a213-6c67ab3008ff,Archaeologist,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+HUMAN_USE_1,Agricultural,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+HUMAN_USE_2,Commercial,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+HUMAN_USE_3,Residential,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+HUMAN_USE_4,Recreational,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+HUMAN_USE_5,None,,HUMAN_USE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

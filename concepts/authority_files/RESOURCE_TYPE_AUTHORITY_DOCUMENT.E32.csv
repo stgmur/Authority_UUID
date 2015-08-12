@@ -1,0 +1,4 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+RESOURCE_TYPE_1,Environmental,,RESOURCE_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RESOURCE_TYPE_2,Cultural,,RESOURCE_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RESOURCE_TYPE_3,Human Use/Economic,,RESOURCE_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

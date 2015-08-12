@@ -1,0 +1,16 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+ROLE_1,SCAT Team Lead,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_2,SCAT Team Member,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_3,SCAT Coordinator,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_4,SCAT Data Manager,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_5,SCAT Data Team,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_6,SCAT Logistics,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_7,SCAT OPS Liaison,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_8,SCAT Support,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_9,Operations,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_10,Environmental Unit,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_11,Planning,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_12,Safety,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_13,NRA,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_14,Wildlife,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ROLE_15,Archaeologist,,ROLE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

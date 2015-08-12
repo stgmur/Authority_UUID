@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+ORGANIZATION_1,"Polaris Applied Sciences, Inc.",Polaris,ORGANIZATION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ORGANIZATION_2,National Oceanic and Atmospheric Administration,NOAA,ORGANIZATION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ORGANIZATION_3,United States Coast Guard,USCG,ORGANIZATION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ORGANIZATION_4,United States Fish and Wildlife Service,USFWS,ORGANIZATION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+ORGANIZATION_5,United States Environmental Protection Agency,USEPA,ORGANIZATION_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

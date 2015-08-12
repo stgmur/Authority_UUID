@@ -1,0 +1,7 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+DEBRIS_TYPE_1,Vegetation/Seaweed,,DEBRIS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+DEBRIS_TYPE_2,Logs,,DEBRIS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+DEBRIS_TYPE_3,Small Garbage (< 30 cm),,DEBRIS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+DEBRIS_TYPE_4,Large Garbage (> 30 cm),,DEBRIS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+DEBRIS_TYPE_5,Fishing Nets,,DEBRIS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+DEBRIS_TYPE_6,Other,,DEBRIS_TYPE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

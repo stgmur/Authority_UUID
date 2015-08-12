@@ -1,0 +1,13 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+8f43f47d-70cb-41d7-9e71-2057bb617003,1. Natural alongshore movement barrier?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+aac6b213-9a09-4fde-bbf0-3595e30899d5,2. Manmade alongshore movement barrier?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+74957e1a-d235-4df5-b610-c68961782677,3. Natural bay/embayment or slough?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+92b556db-5044-4f02-9659-e299cbf9238d,4. Meander with cut banks?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+7fe14f99-38fe-40ce-bd54-0deeac1c840d,5. Flood plain valley?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+7812089f-9b5c-4dc0-9c80-75ae3afa2779,6. Overwashing into lagoon or marsh?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+e0f7520f-f985-4f76-9829-5659ee0d4992,7. Pebble/Cobble potential penetration?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+6ec35fed-38e7-4d6c-a89d-372a50c02746,8. Riprap/Boulder potential penetration/remobilization?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+af1edfe3-b6ad-4402-bc4a-50eada1d6213,9. Marsh/Wetland potential oiling?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+820295d4-f7d6-40dd-8ee6-dcde56b56706,10. Remote?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+81e4eaaf-4638-4d52-bf81-1a2165ced822,11. Strong currents?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+8eb663d8-ee31-4859-802b-70465b0f5bf7,12. Scrub or wooded banks?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

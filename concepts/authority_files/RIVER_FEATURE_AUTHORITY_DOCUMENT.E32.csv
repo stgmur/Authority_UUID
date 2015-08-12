@@ -1,0 +1,13 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+RIVER_FEATURE_1,1. Natural alongshore movement barrier?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_2,2. Manmade alongshore movement barrier?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_3,3. Natural bay/embayment or slough?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_4,4. Meander with cut banks?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_5,5. Flood plain valley?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_6,6. Overwashing into lagoon or marsh?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_7,7. Pebble/Cobble potential penetration?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_8,8. Riprap/Boulder potential penetration/remobilization?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_9,9. Marsh/Wetland potential oiling?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_10,10. Remote?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_11,11. Strong currents?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+RIVER_FEATURE_12,12. Scrub or wooded banks?,,RIVER_FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

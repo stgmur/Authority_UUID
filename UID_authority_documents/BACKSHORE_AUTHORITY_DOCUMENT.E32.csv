@@ -1,0 +1,31 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+b754c6a9-09f4-4eb3-90d2-4cb4634375a7,Shoreline/Arctic/Pre-Spill,,BACKSHORE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+21c65b07-62b5-4219-a0f1-b3d14a29011a,Beach,,BACKSHORE_1,Index,Polaris
+74950b21-2824-472b-85be-a0e6f2bbfccb,Lagoon,,BACKSHORE_1,Index,Polaris
+3faea1bf-994f-4aac-94e6-f3520387a043,Manmade: Impermeable,,BACKSHORE_1,Index,Polaris
+b60170cd-09ef-45df-9a0a-f53fe69acaff,Manmade: Permeable,,BACKSHORE_1,Index,Polaris
+6275fdcb-1b64-413b-8c43-c22733b4a9cb,Flat,,BACKSHORE_1,Index,Polaris
+18cb190f-3181-4810-abba-4ca133688072,Lowland,,BACKSHORE_1,Index,Polaris
+d0404500-7704-49d8-846e-9ab6e83f2000,Barrier Beach,,BACKSHORE_1,Index,Polaris
+b8a8bff1-a938-4104-bfdb-b4c520db467c,Dune,,BACKSHORE_1,Index,Polaris
+6cf3c73e-16ad-42dd-abce-b2d6a6f78713,River/Channel,,BACKSHORE_1,Index,Polaris
+7e0e56de-df1b-47cd-b29c-1b56b65e181b,Tidal Inlet,,BACKSHORE_1,Index,Polaris
+04b942d7-8ab7-4838-92c4-661beba6017b,Marsh/Wetland,,BACKSHORE_1,Index,Polaris
+bc9182f7-85c1-49af-be83-b1630af5e781,Cliff/Hill,,BACKSHORE_1,Index,Polaris
+23313d48-c446-49c7-a0af-d91c7038df0d,River/Stream,,BACKSHORE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+ffb317bb-0a70-4221-b05f-7d0d2bc68cc1,Canyon,,BACKSHORE_15,Index,Polaris
+f4502ed9-7e50-42ca-8097-79f641c536c7,Straight,,BACKSHORE_15,Index,Polaris
+cb2ed956-ebf3-4407-becb-28d47f08dedc,Manmade,,BACKSHORE_15,Index,Polaris
+e66bdafc-ac02-42c6-aaba-29a2f217313e,Braided,,BACKSHORE_15,Index,Polaris
+3332ec62-efa8-428d-87cd-113d17dd55ad,Anastamosed,,BACKSHORE_15,Index,Polaris
+43d5724b-dda8-4fda-b00e-3385c045e3d4,Meander,,BACKSHORE_15,Index,Polaris
+74ad3ee9-760e-4a17-b0b0-36f66d8f07f8,Oxbow,,BACKSHORE_15,Index,Polaris
+baa3fa6e-02c4-4541-9620-7cd5a735a38a,Confined/Leveed,,BACKSHORE_15,Index,Polaris
+96f4ca1e-5a8d-45cb-9359-c65d2d73f54c,Flood Plain,,BACKSHORE_15,Index,Polaris
+c1e5fe90-86f7-4f03-b1b9-0e10e1e7766a,Coral,,BACKSHORE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+8edb0453-f881-484a-afe0-b414bfd4e62e,Seagrass Beds,,BACKSHORE_25,Index,Polaris
+062b8f11-ceeb-4771-97a0-850cb6f3c82a,Mangrove Forests,,BACKSHORE_25,Index,Polaris
+dfd8ad4b-192e-4750-a3f9-bab10197640f,Beach,,BACKSHORE_25,Index,Polaris
+4aa94aff-bfa8-40a6-bc3b-6b0e34bd7f65,Lagoon,,BACKSHORE_25,Index,Polaris
+2d627af0-211a-4f1c-a638-020517150894,Manmade: Impermeable,,BACKSHORE_25,Index,Polaris
+891e1f98-63bb-4dce-9138-de4ebdf7d273,Manmade: Permeable,,BACKSHORE_25,Index,Polaris

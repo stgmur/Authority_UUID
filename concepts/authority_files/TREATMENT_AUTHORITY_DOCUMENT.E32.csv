@@ -1,0 +1,6 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+TREATMENT_1,None,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+TREATMENT_2,Passive Collection,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+TREATMENT_3,Washing/Flushing,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+TREATMENT_4,Manual Collection,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+TREATMENT_5,Mechanical Collection,,TREATMENT_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris

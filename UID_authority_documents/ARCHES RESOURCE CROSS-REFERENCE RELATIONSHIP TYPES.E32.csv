@@ -1,0 +1,23 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+4b2e27b8-8e7d-4743-aea1-bf83891c2a39,is related to,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI
+5432be12-4128-4ce3-add3-7b438bcc206d,is contained within / contains,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI
+3c7cde79-5a9f-4beb-bbc6-eb2076c0d75e,was identified in / identified,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI
+9ed09b0c-3728-4657-8488-7855075ef6dd,was assessed in / assessed,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI
+a4172c7f-5d6b-4b3f-b7b4-292770abca17,is referred to in / refers to,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI
+9bc76fd7-7b7d-457f-858e-d619b3b5548e,is represented by / represents,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI
+e4b7d71b-e80d-4f1b-b43f-237c5a1735d9,Historic Resource/District - Historic Resource/District,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Collector,GCI
+cd75ec35-de87-4766-86c3-e068a8b7e911,is a contributor to / has as a contributor,District and Contributor Relationship,RELATIONSHIP_TYPE:7,Index,GCI
+4fb888c5-d8e6-4d50-b32f-22a368396c47,is a non-contributor to / has as a non-contributor,District and Non-Contributor Relationship,RELATIONSHIP_TYPE:7,Index,GCI
+0e67e3c0-08ee-41e2-8cc7-266cfde731d7,is a potential contributor to / has as a possible contributor,District and Potential Contributor Relationship,RELATIONSHIP_TYPE:7,Index,GCI
+02fe9a58-b587-45fa-afae-9e1ece2f3711,is an altered contributor to / has as a altered contributor,District and Altered Contributor Relationship,RELATIONSHIP_TYPE:7,Index,GCI
+b7d242b5-d032-4fed-b8dc-a83b301ccbd8,Historic Resource/District - Actor,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Collector,GCI
+c4c8202f-dd92-439a-bac2-b499a26e42e0,was designed by /designed,Historic Resource/District and Architect Relationship,RELATIONSHIP_TYPE:14,Index,GCI
+353ccc8c-750d-4316-b1ab-941955d8082f,was built by / built,Historic Resource/District and Builder Relationship,RELATIONSHIP_TYPE:14,Index,GCI
+ce7cf6b0-75b8-4123-808f-6c75f38ff77a,was owned by / owned,Historic Resource/District and Original Owner Relationship,RELATIONSHIP_TYPE:14,Index,GCI
+e0bf537a-529c-4b03-9466-dab286a523d6,was surveyed by / surveyed,Historic Resource/District and Surveyor Relationship,RELATIONSHIP_TYPE:14,Index,GCI
+39810472-5e95-4b0c-a63a-da7cecc4aa30,was made significant by / contributed to the significance of,Historic Resource/District and Significant Person Relationship,RELATIONSHIP_TYPE:14,Index,GCI
+8dcd8890-40a3-4ae6-a558-eb6842ab0e82,Historic Resource/District - Historical Event/Activity,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Collector,GCI
+ca00c877-78c3-4641-822b-e02d5e6d7e28,was the location of / took place at,Historic Resource/District and Historical Event/Activity Relationship,RELATIONSHIP_TYPE:20,Index,GCI
+c965785f-4287-4726-9441-480263e96b19,was made significant by / contributed to the significance of,Historic Resource/District and Significant Event Relationship,RELATIONSHIP_TYPE:20,Index,GCI
+95ece4f5-37b0-4829-8b22-3f5173d7b364,is created by / created,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI
+3471301a-fe49-455c-8a2f-3e2383594f67,was occupied by / occupied,,ARCHES RESOURCE CROSS-REFERENCE RELATIONSHIP TYPES.E32.csv,Index,GCI

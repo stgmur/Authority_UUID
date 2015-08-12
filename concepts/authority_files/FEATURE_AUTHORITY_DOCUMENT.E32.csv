@@ -1,0 +1,22 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+FEATURE_1,1. Natural alongshore movement barrier?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_2,2. Manmade alongshore movement barrier?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_3,3. Natural bay/embayment or slough?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_4,4. Marsh/Wetland potential oiling?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_5,5. Overwash into lagoon or marsh?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_6,6. Pebble/Cobble potential penetration?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_7,7. Riprap/Boulder potential penetration/remobilization?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_8,8. Remote?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_9,9. Strong currents?,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+FEATURE_10,Shoreline Only Features,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+FEATURE_11,10. Inlet or channel?,,FEATURE_10,Index,Polaris
+FEATURE_12,11. Lagoon or estuary?,,FEATURE_10,Index,Polaris
+FEATURE_13,12. Nearshore shoals/reef?,,FEATURE_10,Index,Polaris
+FEATURE_14,13. Sand shoreline potential burial?,,FEATURE_10,Index,Polaris
+FEATURE_15,14. Exposed coast?,,FEATURE_10,Index,Polaris
+FEATURE_16,15. High tidal range?,,FEATURE_10,Index,Polaris
+FEATURE_17,16. Winter shore ice?,,FEATURE_10,Index,Polaris
+FEATURE_18,River/Stream Only Features,,FEATURE_AUTHORITY_DOCUMENT.E32.csv,Collector,Polaris
+FEATURE_19,10. Meander with cut banks?,,FEATURE_18,Index,Polaris
+FEATURE_20,11. Flood plain valley?,,FEATURE_18,Index,Polaris
+FEATURE_21,12. Scrub or wooded banks?,,FEATURE_18,Index,Polaris

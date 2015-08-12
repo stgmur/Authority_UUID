@@ -1,0 +1,7 @@
+conceptid,PrefLabel,AltLabels,ParentConceptid,ConceptType,Provider
+199111f0-9915-4e24-b098-3dc1e92c457e,Prevent contact with shore/resources at risk,,SEGMENT_PROTECTION_OBJECTIVES_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+9c54cd07-7750-4c10-8ceb-2d9c7e87e92b,Minimize contact,,SEGMENT_PROTECTION_OBJECTIVES_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+89f624a8-4d09-47c0-b0cf-074f2fe4341d,Prevent oil movement to adj. segment,,SEGMENT_PROTECTION_OBJECTIVES_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+6ee02066-3b9e-4991-a219-f526067d2ee3,Constrain stranded oil,,SEGMENT_PROTECTION_OBJECTIVES_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+488f3b32-3b8b-479a-8c92-71d099454aa0,Prevent oil transport to inlet/estuary/channel,,SEGMENT_PROTECTION_OBJECTIVES_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
+c1004255-be22-443f-8e95-2b8ff70a40c0,Other,,SEGMENT_PROTECTION_OBJECTIVES_AUTHORITY_DOCUMENT.E32.csv,Index,Polaris
